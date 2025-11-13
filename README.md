@@ -138,3 +138,14 @@ To Build Database Apps with PostgreSQL & Python
 <img width="1902" height="1055" alt="Screenshot 2025-10-12 172746" src="https://github.com/user-attachments/assets/7242e8bf-32e0-4636-a353-07fd8996fe13" />
 <img width="1913" height="1020" alt="Screenshot 2025-10-12 173824" src="https://github.com/user-attachments/assets/2e531123-0f04-4f45-b0f8-9baae7104b0c" />
 <img width="1919" height="986" alt="Screenshot 2025-10-12 173845" src="https://github.com/user-attachments/assets/3dcb85c1-4b1d-4ed1-a7b9-116c3036ad07" />
+
+
+
+## >> ASSIGNMENT 8
+
+
+##Task 1
+To Create Django-User Registration and login project
+
+#O/P
+We have successfully created a User Registration and login project 
