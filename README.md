@@ -149,3 +149,14 @@ To Create Django-User Registration and login project
 
 #O/P
 We have successfully created a User Registration and login project 
+
+
+
+## >> ASSIGNMENT 9
+
+
+##Task 1
+To Create a Django- Form project
+
+#O/P
+We have successfully Created a Django- Form project
