@@ -174,3 +174,14 @@ To Implement REST API Using Django
 We have successfully implemented REST API USING Django
 
 
+
+## >> NEW ASSIGNMENT_10
+
+
+##Task 1
+Web Scraping module Implementation Or Price Tracer
+
+
+#O/P
+We have successfully created a Price Tracer
+
