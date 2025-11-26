@@ -160,3 +160,17 @@ To Create a Django- Form project
 
 #O/P
 We have successfully Created a Django- Form project
+
+
+
+## >> NEW ASSIGNMENT 9
+
+
+##Task 1
+To Implement REST API Using Django
+
+
+#O/P
+We have successfully implemented REST API USING Django
+
+
