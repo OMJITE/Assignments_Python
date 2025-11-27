@@ -185,3 +185,14 @@ Web Scraping module Implementation Or Price Tracer
 #O/P
 We have successfully created a Price Tracer
 
+
+
+## >> NEW ASSIGNMENT_11
+
+
+##Task 1
+OpenCV module Implementations
+
+
+#O/P
+We have successfully Implemented every code from the module 
