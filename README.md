@@ -169,7 +169,6 @@ We have successfully Created a Django- Form project
 ##Task 1
 To Implement REST API Using Django
 
-
 #O/P
 We have successfully implemented REST API USING Django
 
@@ -180,7 +179,6 @@ We have successfully implemented REST API USING Django
 
 ##Task 1
 Web Scraping module Implementation Or Price Tracer
-
 
 #O/P
 We have successfully created a Price Tracer
@@ -193,6 +191,28 @@ We have successfully created a Price Tracer
 ##Task 1
 OpenCV module Implementations
 
-
 #O/P
 We have successfully Implemented every code from the module 
+
+
+
+## >> NEW ASSIGNMENT_12
+
+
+##Task 1
+ Automation using selenium: Getting data
+
+#O/P
+We have successfully Automated  chrome browser and amazon website.
+
+
+
+## >> NEW ASSIGNMENT_13
+
+
+##Task 1
+Automation using selenium: Facebook auto blog poster
+
+#O/P
+We have successfully Automated the blog posting at facebook website.
+
