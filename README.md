@@ -215,4 +215,3 @@ Automation using selenium: Facebook auto blog poster
 
 #O/P
 We have successfully Automated the blog posting at facebook website.
-
