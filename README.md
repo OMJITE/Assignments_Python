@@ -215,3 +215,14 @@ Automation using selenium: Facebook auto blog poster
 
 #O/P
 We have successfully Automated the blog posting at facebook website.
+
+
+
+## >> NEW ASSIGNMENT_14
+
+
+##Task 1
+Network Programming in Python Using Socket: Building A Chat Application
+
+#O/P
+We have successfully made a Chat Application.
